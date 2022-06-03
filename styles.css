@@ -442,11 +442,11 @@ img {
 }
 
 .bar-link a {
-    color: #1d1d1d;
+    color: #94d0d5;
 }
 
 .bar-link a:hover {
-    color:#94d0d5;
+    color: #1d1d1d;
     transition: 0.1s;
 }
 
