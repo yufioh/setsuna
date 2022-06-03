@@ -443,11 +443,12 @@ img {
 
 .bar-link a {
     color: #94d0d5;
+    transition: color .2s ease-in-out, box-shadow .5s ease-in-out;
 }
 
 .bar-link a:hover {
-    color: #1d1d1d;
-    transition: 0.1s;
+    color: #fff;
+    box-shadow: inset 200px 0 0 0 #94d0d5;
 }
 
 /* TAB ONE */
